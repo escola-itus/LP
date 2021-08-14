@@ -8,12 +8,12 @@
 
     background-color: #004aad00;
     padding-top: 10.25rem;
-    padding-bottom: 2.5rem;
+    padding-bottom: 5.5rem;
 
-    background-image: url(../img/bg1.png);
+    background-image: url(../img/menino.png);
     background-size: cover;
     background-position-x: center;
-    background-position-y: center;
+    background-position-y: -23vh;
     background-attachment: fixed;
 }
 
@@ -73,8 +73,9 @@
     .chamada {
         background-size: cover;
         padding-bottom: 8.25rem;
-        background-image: url(../img/bg1.png);
+        background-image: url(../img/mae.png);
         background-attachment: fixed;
+        background-position-y: -150px;
     }
 
     .chamada__titulo{
