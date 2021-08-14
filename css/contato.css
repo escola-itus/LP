@@ -22,6 +22,12 @@
     font-family: var(--pixelado);
 }
 
+.contato__formulario{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .contato__info {
     font-size: 1.2rem;
     line-height: 1.8;

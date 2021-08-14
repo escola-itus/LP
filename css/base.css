@@ -16,6 +16,7 @@ body {
 }
 
 .botao {
+    font-weight: bold;
     text-align: center;
     display: block;
     width: 100%;

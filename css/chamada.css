@@ -10,7 +10,7 @@
     padding-top: 10.25rem;
     padding-bottom: 5.5rem;
 
-    background-image: url(../img/menino.png);
+    background-image: url(../img/bg1-mob.png);
     background-size: cover;
     background-position-x: center;
     background-position-y: -23vh;
@@ -35,6 +35,7 @@
     -webkit-text-fill-color: transparent;
     font-family: var(--palito);
 }
+
 .chamada__texto {
     font-size: 1.25rem;
     line-height: normal;
@@ -42,18 +43,10 @@
 }
 
 .chamada__botao {
-    font-weight: bold;
     background-color: #269912;
     color: white;
     border: 1px solid #269912;
-    width: 100%;
     transition: 200ms;
-    text-align: center;
-    display: block;
-    max-width: 350px;
-    box-sizing: border-box;
-    padding: 1rem 2rem;
-    border-radius: 5px;
 }
 
 .chamada__botao:hover {
@@ -72,8 +65,8 @@
 @media screen and (min-width: 1024px){
     .chamada {
         background-size: cover;
-        padding-bottom: 8.25rem;
-        background-image: url(../img/mae.png);
+        padding-bottom: 3.25rem;
+        background-image: url(../img/bg1.png);
         background-attachment: fixed;
         background-position-y: -150px;
     }
