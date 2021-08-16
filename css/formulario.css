@@ -1,8 +1,5 @@
 #containerForm{
   width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .form__campo{
@@ -22,6 +19,7 @@
 }
 
 .form__botao {
+  font-family: var(--montserrat);
   margin-top: 1rem;
   background-color: #05539b;
   color: white;
