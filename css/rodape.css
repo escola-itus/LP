@@ -24,17 +24,8 @@
 }
 
 .rodape__logo{
-    width: 300px;
+    width: 220px;
     height: auto;
-}
-.rodape__logo--simbolo {
-    width: 100px;
-    height: auto;
-}
-
-.rodape__logo--letra {
-    padding-bottom: 10px;
-    padding-left: 10px;
 }
 
 .rodape__navegacao {
