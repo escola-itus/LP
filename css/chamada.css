@@ -65,7 +65,8 @@
 @media screen and (min-width: 1024px){
     .chamada {
         background-size: cover;
-        padding-bottom: 3.25rem;
+        padding-top: 10.25rem;
+        padding-bottom: 1.25rem;
         background-image: url(../img/bg1.png);
         background-attachment: fixed;
         background-position-y: -150px;
